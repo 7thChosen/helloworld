@@ -1,6 +1,6 @@
 # helloworld
 My public voice.
 
-https://github.com/7thChosen/helloworld.git
+7thchosen.github.io/helloworld/
 
-http://www.7thchosen.org
+7thchosen.org
